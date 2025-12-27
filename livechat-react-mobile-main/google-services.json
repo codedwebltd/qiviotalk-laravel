@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414954993651",
+    "project_id": "livechat-tidu",
+    "storage_bucket": "livechat-tidu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414954993651:android:79e541d94f2e5a4c944486",
+        "android_client_info": {
+          "package_name": "com.codedwebltd.livechatmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFx8mn6gxSXMBpT0exlCy1Ivkye74Y3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

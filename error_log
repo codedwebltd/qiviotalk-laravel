@@ -1,0 +1,19 @@
+[18-Nov-2025 04:13:49 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palestine/adminer.palestinesrelief.org/app/Models/AiSetting.php on line 4
+[18-Nov-2025 04:13:51 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/palestine/adminer.palestinesrelief.org/app/Models/AiSetting.php on line 4
+[28-Nov-2025 06:59:17 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 06:59:47 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 06:59:47 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 06:59:47 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:00:46 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:00:46 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:01:46 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:01:47 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:02:46 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:02:47 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:03:46 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:03:46 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:04:47 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:04:47 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:05:47 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:05:47 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3
+[28-Nov-2025 07:06:30 UTC] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/palestine/adminer.palestinesrelief.org/routes/platform.php on line 3

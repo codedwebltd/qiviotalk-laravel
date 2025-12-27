@@ -1,0 +1,69 @@
+{
+  "expo": {
+    "name": "livechat-mobile",
+    "slug": "tidu-mobile",
+    "version": "6.1.1",
+    "orientation": "portrait",
+    "icon": "./assets/images/temp-icons/icon.png",
+    "scheme": "livechatmobile",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "bundleIdentifier": "com.codedwebltd.livechatmobile"
+    },
+    "android": {
+      "versionCode": 6,
+      "adaptiveIcon": {
+        "backgroundColor": "#3B82F6",
+        "foregroundImage": "./assets/images/temp-icons/android-icon-foreground.png",
+        "backgroundImage": "./assets/images/temp-icons/android-icon-background.png",
+        "monochromeImage": "./assets/images/temp-icons/android-icon-monochrome.png"
+      },
+      "edgeToEdgeEnabled": false,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.codedwebltd.livechatmobile",
+      "googleServicesFile": "./google-services.json",
+      "navigationBar": {
+        "visible": true,
+        "barStyle": "dark-content",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/temp-icons/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#0A2540",
+          "image": "./assets/images/splash-icon.png",
+          "resizeMode": "contain",
+          "dark": {
+            "backgroundColor": "#0A2540",
+            "image": "./assets/images/splash-icon.png"
+          }
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "color": "#25D366"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "544c4bc3-24b9-4b25-b6df-94b4d5527eee"
+      }
+    }
+  }
+}
