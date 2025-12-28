@@ -76,6 +76,7 @@ Route::post('/crypto/webhook', [PaymentApiController::class, 'handleCryptomusWeb
 
 
 
+// MOBILE APP STARTS HERE DO NOT TAMPER
 // Protected routes
 Route::middleware('auth:api')->group(function () {
     // Token validation route
